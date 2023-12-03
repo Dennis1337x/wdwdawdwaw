@@ -1,0 +1,14 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": "137941253001052160", "137941253001052160"],
+        "ACTIVITY_TEXT": ".gg/kacak",
+        "GUILD_ID": "711881755052867634",
+        "VOICE_CHANNEL": "1180733120245407776",
+        "MIN_STAFF_ROLE": "1172267302981468250"
+    },
+    "FILES": {
+        "WELCOME": "seda.mp3",
+        "STAFF": "seda.mp3"
+    },
+    "TOKEN": "MTE4MDczMzM1ODU5NTExMzA2Mg.GGW31V.tzbposv26Btmb3LYkIhONGM7S7NcFbfdCNheLQ"
+}
